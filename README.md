@@ -8,7 +8,7 @@ A [Steamodded](https://github.com/Steamodded/smods) mod for [Balatro](https://ww
 
 ### Play any challenge on any stake
 
-Vanilla always starts a challenge on White Stake. This mod adds a stake chip to every row of the challenge list:
+Vanilla only has challenges at white stake. This mod adds a stake chip to every row of the challenge list:
 
 - **Left click** the chip to cycle the stake up, **right click** to cycle it down (White through Gold).
 - The row's completion check reflects the highest stake you've beaten that challenge on.
@@ -28,7 +28,7 @@ Vanilla always starts a challenge on White Stake. This mod adds a stake chip to 
 - Jokerless has its own custom stakes since many of the stakes do not apply to it. I am trying to determine what to do with gold stake, as the challenge is extremely difficult on gold-stake without some sort of help to the player. $25 start was how I was able to beat it, but other ideas are welcome. I don't think it should be left as-is though.
 - Some other challenges ban certain jokers on higher stakes
 - Golden Needle is very difficult on Gold Stake, may need some ideas on how to help the player a bit.
-- Blast Off is almost impossible on Gold Stake without an early good joker (and I didn't even implement the -1 discard), needs a LOT of ideas on how to help the player.
+- Blast Off is almost impossible on Gold Stake without an early good joker (and I didn't even implement the -1 discard), need ideas on how to help the player.
 
 ## Installation
 
