@@ -1,6 +1,6 @@
 # Challenge Deck+
 
-**Alpha.** Rules and balance (especially on the newer challenges) are still being tuned and may change between updates. Please open an issue for bugs or crashes.
+**Alpha.** Rules and balance (especially on the newer challenges) are still being tuned and may change between updates.
 
 A [Steamodded](https://github.com/Steamodded/smods) mod for [Balatro](https://www.playbalatro.com/) that lets you play any challenge on any stake, and adds more challenges.
 
