@@ -1,0 +1,6 @@
+# Steamodded per-profile config (generated at runtime, not source)
+config/*.jkr
+
+# OS junk
+.DS_Store
+Thumbs.db

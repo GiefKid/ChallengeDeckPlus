@@ -1,0 +1,15 @@
+{
+	"id": "ChallengeDeckPlus",
+	"name": "Challenge Deck+",
+	"display_name": "Challenge Deck+",
+	"author": [
+		"Jon"
+	],
+	"description": "Play any challenge on any stake up to Gold, and adds nine new challenges (five Legendary Jokers, Wild Ride, Wild Ride 3X, Magician's Deck, Naneinf). A stake chip on each row of the challenge list lets you pick the stake per challenge - left click cycles up, right click down - and the completion check reflects the highest stake you've beaten that challenge on. Cycling the stake chip is purely cosmetic/bookkeeping - never touches deck wins, joker stickers, stake unlocks or achievements.",
+	"prefix": "cdp",
+	"main_file": "ChallengeDeckPlus.lua",
+	"priority": 0,
+	"version": "0.1.0",
+	"dependencies": [],
+	"conflicts": []
+}
